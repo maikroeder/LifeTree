@@ -1,0 +1,1253 @@
+    {"name": "Caniformia", "children": [
+       {"name": "Otariidae", "children": [
+          {"name": "Arctocephalus", "children": [
+             {"name": "Arctocephalus_australis","size": 300 },
+             {"name": "Arctocephalus_townsendi","size": 300 },
+             {"name": "Arctocephalus_philippii","size": 300 },
+             {"name": "Arctocephalus_gazella","size": 300 },
+             {"name": "Arctocephalus_galapagoensis","size": 300 },
+             {"name": "Arctocephalus_tropicalis","size": 300 },
+             {"name": "Arctocephalus_forsteri","size": 300 },
+             {"name": "Arctocephalus_pusillus", "children": [
+                {"name": "Arctocephalus_pusillus_pusillus","size": 300 },
+                {"name": "Arctocephalus_pusillus_doriferus","size": 300 } ]
+ } ]
+ },
+          {"name": "Neophoca", "children": [
+             {"name": "Neophoca_cinerea","size": 300 } ]
+ },
+          {"name": "Phocarctos", "children": [
+             {"name": "Phocarctos_hookeri","size": 300 } ]
+ },
+          {"name": "Eumetopias", "children": [
+             {"name": "Eumetopias_jubatus","size": 300 } ]
+ },
+          {"name": "Zalophus", "children": [
+             {"name": "Zalophus_californianus","size": 300 },
+             {"name": "Zalophus_japonicus","size": 300 },
+             {"name": "Zalophus_wollebaeki","size": 300 } ]
+ },
+          {"name": "Callorhinus", "children": [
+             {"name": "Callorhinus_ursinus","size": 300 } ]
+ },
+          {"name": "Otaria", "children": [
+             {"name": "Otaria_flavescens","size": 300 } ]
+ } ]
+ },
+       {"name": "Mustelidae", "children": [
+          {"name": "Lutrinae", "children": [
+             {"name": "Hydrictis", "children": [
+                {"name": "Hydrictis_maculicollis","size": 300 } ]
+ },
+             {"name": "Lontra", "children": [
+                {"name": "Lontra_felina","size": 300 },
+                {"name": "Lontra_longicaudis", "children": [
+                   {"name": "Lontra_longicaudis_longicaudis","size": 300 },
+                   {"name": "Lontra_longicaudis_annectens","size": 300 },
+                   {"name": "Lontra_longicaudis_enudris","size": 300 } ]
+ },
+                {"name": "Lontra_provocax","size": 300 },
+                {"name": "Lontra_canadensis", "children": [
+                   {"name": "Lontra_canadensis_lataxina","size": 300 },
+                   {"name": "Lontra_canadensis_sonora","size": 300 },
+                   {"name": "Lontra_canadensis_periclyzomae","size": 300 },
+                   {"name": "Lontra_canadensis_canadensis","size": 300 },
+                   {"name": "Lontra_canadensis_mira","size": 300 },
+                   {"name": "Lontra_canadensis_pacifica","size": 300 },
+                   {"name": "Lontra_canadensis_kodiacensis","size": 300 } ]
+ } ]
+ },
+             {"name": "Aonyx", "children": [
+                {"name": "Aonyx_cinerea", "children": [
+                   {"name": "Aonyx_cinerea_concolor","size": 300 },
+                   {"name": "Aonyx_cinerea_nirnai","size": 300 },
+                   {"name": "Aonyx_cinerea_cinerea","size": 300 } ]
+ },
+                {"name": "Aonyx_capensis", "children": [
+                   {"name": "Aonyx_capensis_philippsi","size": 300 },
+                   {"name": "Aonyx_capensis_hindei","size": 300 },
+                   {"name": "Aonyx_capensis_microdon","size": 300 },
+                   {"name": "Aonyx_capensis_capensis","size": 300 },
+                   {"name": "Aonyx_capensis_meneleki","size": 300 } ]
+ },
+                {"name": "Aonyx_congicus","size": 300 } ]
+ },
+             {"name": "Lutra", "children": [
+                {"name": "Lutra_sumatrana","size": 300 },
+                {"name": "Lutra_lutra", "children": [
+                   {"name": "Lutra_lutra_lutra","size": 300 },
+                   {"name": "Lutra_lutra_chinensis","size": 300 },
+                   {"name": "Lutra_lutra_seistanica","size": 300 },
+                   {"name": "Lutra_lutra_meridionalis","size": 300 },
+                   {"name": "Lutra_lutra_aurobrunneus","size": 300 },
+                   {"name": "Lutra_lutra_monticolus","size": 300 },
+                   {"name": "Lutra_lutra_barang","size": 300 },
+                   {"name": "Lutra_lutra_kutab","size": 300 },
+                   {"name": "Lutra_lutra_angustifrons","size": 300 },
+                   {"name": "Lutra_lutra_nair","size": 300 },
+                   {"name": "Lutra_lutra_hainana","size": 300 } ]
+ },
+                {"name": "Lutra_nippon","size": 300 } ]
+ },
+             {"name": "Pteronura", "children": [
+                {"name": "Pteronura_brasiliensis", "children": [
+                   {"name": "Pteronura_brasiliensis_brasiliensis","size": 300 },
+                   {"name": "Pteronura_brasiliensis_paraguensis","size": 300 } ]
+ } ]
+ },
+             {"name": "Lutrogale", "children": [
+                {"name": "Lutrogale_perspicillata", "children": [
+                   {"name": "Lutrogale_perspicillata_perspicillata","size": 300 },
+                   {"name": "Lutrogale_perspicillata_sindica","size": 300 } ]
+ } ]
+ },
+             {"name": "Enhydra", "children": [
+                {"name": "Enhydra_lutris", "children": [
+                   {"name": "Enhydra_lutris_lutris","size": 300 },
+                   {"name": "Enhydra_lutris_kenyoni","size": 300 },
+                   {"name": "Enhydra_lutris_nereis","size": 300 } ]
+ } ]
+ } ]
+ },
+          {"name": "Mustelinae", "children": [
+             {"name": "Arctomeles", "children": [
+                {"name": "Arctomeles_dimolodontus","size": 300 } ]
+ },
+             {"name": "Ictonyx", "children": [
+                {"name": "Ictonyx_striatus", "children": [
+                   {"name": "Ictonyx_striatus_striatus","size": 300 },
+                   {"name": "Ictonyx_striatus_pretoriae","size": 300 },
+                   {"name": "Ictonyx_striatus_giganteus","size": 300 },
+                   {"name": "Ictonyx_striatus_erythreae","size": 300 },
+                   {"name": "Ictonyx_striatus_shortridgei","size": 300 },
+                   {"name": "Ictonyx_striatus_senegalensis","size": 300 },
+                   {"name": "Ictonyx_striatus_albescens","size": 300 },
+                   {"name": "Ictonyx_striatus_kalaharicus","size": 300 },
+                   {"name": "Ictonyx_striatus_obscuratus","size": 300 },
+                   {"name": "Ictonyx_striatus_maximus","size": 300 },
+                   {"name": "Ictonyx_striatus_elgonis","size": 300 },
+                   {"name": "Ictonyx_striatus_ovamboensis","size": 300 },
+                   {"name": "Ictonyx_striatus_ghansiensis","size": 300 },
+                   {"name": "Ictonyx_striatus_lancasteri","size": 300 },
+                   {"name": "Ictonyx_striatus_limpopoensis","size": 300 },
+                   {"name": "Ictonyx_striatus_shoae","size": 300 },
+                   {"name": "Ictonyx_striatus_intermedius","size": 300 },
+                   {"name": "Ictonyx_striatus_arenarius","size": 300 },
+                   {"name": "Ictonyx_striatus_orangiae","size": 300 } ]
+ },
+                {"name": "Ictonyx_libyca", "children": [
+                   {"name": "Ictonyx_libyca_multivittata","size": 300 },
+                   {"name": "Ictonyx_libyca_oralis","size": 300 },
+                   {"name": "Ictonyx_libyca_rothschildi","size": 300 },
+                   {"name": "Ictonyx_libyca_libyca","size": 300 } ]
+ } ]
+ },
+             {"name": "Mellivora", "children": [
+                {"name": "Mellivora_capensis", "children": [
+                   {"name": "Mellivora_capensis_inaurita","size": 300 },
+                   {"name": "Mellivora_capensis_signata","size": 300 },
+                   {"name": "Mellivora_capensis_concisa","size": 300 },
+                   {"name": "Mellivora_capensis_cottoni","size": 300 },
+                   {"name": "Mellivora_capensis_buechneri","size": 300 },
+                   {"name": "Mellivora_capensis_indica","size": 300 },
+                   {"name": "Mellivora_capensis_pumilio","size": 300 },
+                   {"name": "Mellivora_capensis_wilsoni","size": 300 },
+                   {"name": "Mellivora_capensis_capensis","size": 300 },
+                   {"name": "Mellivora_capensis_leuconota","size": 300 },
+                   {"name": "Mellivora_capensis_maxwelli","size": 300 },
+                   {"name": "Mellivora_capensis_abyssinica","size": 300 } ]
+ } ]
+ },
+             {"name": "Melogale", "children": [
+                {"name": "Melogale_everetti","size": 300 },
+                {"name": "Melogale_moschata", "children": [
+                   {"name": "Melogale_moschata_taxilla","size": 300 },
+                   {"name": "Melogale_moschata_sorella","size": 300 },
+                   {"name": "Melogale_moschata_hainanensis","size": 300 },
+                   {"name": "Melogale_moschata_millsi","size": 300 },
+                   {"name": "Melogale_moschata_moschata","size": 300 },
+                   {"name": "Melogale_moschata_subaurantiaca","size": 300 },
+                   {"name": "Melogale_moschata_ferreogrisea","size": 300 } ]
+ },
+                {"name": "Melogale_cucphuongensis","size": 300 },
+                {"name": "Melogale_orientalis", "children": [
+                   {"name": "Melogale_orientalis_sundaicus","size": 300 },
+                   {"name": "Melogale_orientalis_orientalis","size": 300 } ]
+ },
+                {"name": "Melogale_personata", "children": [
+                   {"name": "Melogale_personata_nipalensis","size": 300 },
+                   {"name": "Melogale_personata_laotum","size": 300 },
+                   {"name": "Melogale_personata_pierrei","size": 300 },
+                   {"name": "Melogale_personata_tonquinia","size": 300 },
+                   {"name": "Melogale_personata_personata","size": 300 } ]
+ } ]
+ },
+             {"name": "Martes", "children": [
+                {"name": "Martes_gwatkinsii","size": 300 },
+                {"name": "Martes_americana", "children": [
+                   {"name": "Martes_americana_caurina","size": 300 },
+                   {"name": "Martes_americana_nesophila","size": 300 },
+                   {"name": "Martes_americana_sierrae","size": 300 },
+                   {"name": "Martes_americana_atrata","size": 300 },
+                   {"name": "Martes_americana_albeietinoides","size": 300 },
+                   {"name": "Martes_americana_vulpina","size": 300 },
+                   {"name": "Martes_americana_vancourverensis","size": 300 },
+                   {"name": "Martes_americana_actuosa","size": 300 },
+                   {"name": "Martes_americana_humboldtensis","size": 300 },
+                   {"name": "Martes_americana_kenaiensis","size": 300 },
+                   {"name": "Martes_americana_americana","size": 300 },
+                   {"name": "Martes_americana_abieticola","size": 300 },
+                   {"name": "Martes_americana_origensis","size": 300 } ]
+ },
+                {"name": "Martes_martes", "children": [
+                   {"name": "Martes_martes_lorenzi","size": 300 },
+                   {"name": "Martes_martes_uralensis","size": 300 },
+                   {"name": "Martes_martes_borealis","size": 300 },
+                   {"name": "Martes_martes_martes","size": 300 },
+                   {"name": "Martes_martes_latinorum","size": 300 },
+                   {"name": "Martes_martes_minoricensis","size": 300 },
+                   {"name": "Martes_martes_ruthena","size": 300 },
+                   {"name": "Martes_martes_notialis","size": 300 } ]
+ },
+                {"name": "Martes_zibellina", "children": [
+                   {"name": "Martes_zibellina_princeps","size": 300 },
+                   {"name": "Martes_zibellina_jakutensis","size": 300 },
+                   {"name": "Martes_zibellina_arsenjevi","size": 300 },
+                   {"name": "Martes_zibellina_brachyura","size": 300 },
+                   {"name": "Martes_zibellina_kamtschadalica","size": 300 },
+                   {"name": "Martes_zibellina_averini","size": 300 },
+                   {"name": "Martes_zibellina_zibellina","size": 300 },
+                   {"name": "Martes_zibellina_tomensis","size": 300 },
+                   {"name": "Martes_zibellina_sajanensis","size": 300 },
+                   {"name": "Martes_zibellina_angarensis","size": 300 },
+                   {"name": "Martes_zibellina_obscura","size": 300 },
+                   {"name": "Martes_zibellina_tungussensis","size": 300 },
+                   {"name": "Martes_zibellina_schantaricus","size": 300 },
+                   {"name": "Martes_zibellina_yeniseensis","size": 300 },
+                   {"name": "Martes_zibellina_sahalinensis","size": 300 },
+                   {"name": "Martes_zibellina_ilimpiensis","size": 300 } ]
+ },
+                {"name": "Martes_flavigula", "children": [
+                   {"name": "Martes_flavigula_robinsoni","size": 300 },
+                   {"name": "Martes_flavigula_henrici","size": 300 },
+                   {"name": "Martes_flavigula_flavigula","size": 300 },
+                   {"name": "Martes_flavigula_hainana","size": 300 },
+                   {"name": "Martes_flavigula_peninsularis","size": 300 },
+                   {"name": "Martes_flavigula_saba","size": 300 },
+                   {"name": "Martes_flavigula_borealis","size": 300 },
+                   {"name": "Martes_flavigula_chrysospila","size": 300 },
+                   {"name": "Martes_flavigula_indochinensis","size": 300 } ]
+ },
+                {"name": "Martes_pennanti", "children": [
+                   {"name": "Martes_pennanti_columbiana","size": 300 },
+                   {"name": "Martes_pennanti_pennanti","size": 300 },
+                   {"name": "Martes_pennanti_pacifica","size": 300 } ]
+ },
+                {"name": "Martes_foina", "children": [
+                   {"name": "Martes_foina_milleri","size": 300 },
+                   {"name": "Martes_foina_mediterranea","size": 300 },
+                   {"name": "Martes_foina_kozlovi","size": 300 },
+                   {"name": "Martes_foina_rosanowi","size": 300 },
+                   {"name": "Martes_foina_nehringi","size": 300 },
+                   {"name": "Martes_foina_toufoeus","size": 300 },
+                   {"name": "Martes_foina_syriaca","size": 300 },
+                   {"name": "Martes_foina_bosniaca","size": 300 },
+                   {"name": "Martes_foina_intermedia","size": 300 },
+                   {"name": "Martes_foina_foina","size": 300 },
+                   {"name": "Martes_foina_bunites","size": 300 } ]
+ },
+                {"name": "Martes_melampus", "children": [
+                   {"name": "Martes_melampus_tsuensis","size": 300 },
+                   {"name": "Martes_melampus_melampus","size": 300 },
+                   {"name": "Martes_melampus_coreensis","size": 300 } ]
+ } ]
+ },
+             {"name": "Neovison", "children": [
+                {"name": "Neovison_vison", "children": [
+                   {"name": "Neovison_vison_vison","size": 300 },
+                   {"name": "Neovison_vison_nesolestes","size": 300 },
+                   {"name": "Neovison_vison_lutensis","size": 300 },
+                   {"name": "Neovison_vison_aniakensis","size": 300 },
+                   {"name": "Neovison_vison_vulgivaga","size": 300 },
+                   {"name": "Neovison_vison_letifera","size": 300 },
+                   {"name": "Neovison_vison_aestuarina","size": 300 },
+                   {"name": "Neovison_vison_lacustris","size": 300 },
+                   {"name": "Neovison_vison_evagor","size": 300 },
+                   {"name": "Neovison_vison_evergladensis","size": 300 },
+                   {"name": "Neovison_vison_ingens","size": 300 },
+                   {"name": "Neovison_vison_lowii","size": 300 },
+                   {"name": "Neovison_vison_melampeplus","size": 300 },
+                   {"name": "Neovison_vison_energumenos","size": 300 },
+                   {"name": "Neovison_vison_mink","size": 300 } ]
+ },
+                {"name": "Neovison_macrodon","size": 300 } ]
+ },
+             {"name": "Poecilogale", "children": [
+                {"name": "Poecilogale_albinucha", "children": [
+                   {"name": "Poecilogale_albinucha_lebombo","size": 300 },
+                   {"name": "Poecilogale_albinucha_doggetti","size": 300 },
+                   {"name": "Poecilogale_albinucha_transvaalensis","size": 300 },
+                   {"name": "Poecilogale_albinucha_albinucha","size": 300 },
+                   {"name": "Poecilogale_albinucha_bechuanae","size": 300 } ]
+ } ]
+ },
+             {"name": "Arctonyx", "children": [
+                {"name": "Arctonyx_hoevenii","size": 300 },
+                {"name": "Arctonyx_collaris", "children": [
+                   {"name": "Arctonyx_collaris_albogularis","size": 300 },
+                   {"name": "Arctonyx_collaris_consul","size": 300 },
+                   {"name": "Arctonyx_collaris_leucolaemus","size": 300 },
+                   {"name": "Arctonyx_collaris_collaris","size": 300 },
+                   {"name": "Arctonyx_collaris_hoevenii","size": 300 },
+                   {"name": "Arctonyx_collaris_dictator","size": 300 } ]
+ } ]
+ },
+             {"name": "Galictis", "children": [
+                {"name": "Galictis_cuja", "children": [
+                   {"name": "Galictis_cuja_huronax","size": 300 },
+                   {"name": "Galictis_cuja_luteola","size": 300 },
+                   {"name": "Galictis_cuja_furax","size": 300 },
+                   {"name": "Galictis_cuja_cuja","size": 300 } ]
+ },
+                {"name": "Galictis_vittata", "children": [
+                   {"name": "Galictis_vittata_vittata","size": 300 },
+                   {"name": "Galictis_vittata_brasiliensis","size": 300 },
+                   {"name": "Galictis_vittata_canaster","size": 300 },
+                   {"name": "Galictis_vittata_andina","size": 300 } ]
+ } ]
+ },
+             {"name": "Gulo", "children": [
+                {"name": "Gulo_gulo", "children": [
+                   {"name": "Gulo_gulo_luteus","size": 300 },
+                   {"name": "Gulo_gulo_gulo","size": 300 },
+                   {"name": "Gulo_gulo_vancouverensis","size": 300 },
+                   {"name": "Gulo_gulo_katschemakensis","size": 300 },
+                   {"name": "Gulo_gulo_albus","size": 300 },
+                   {"name": "Gulo_gulo_luscus","size": 300 } ]
+ } ]
+ },
+             {"name": "Meles", "children": [
+                {"name": "Meles_leucurus", "children": [
+                   {"name": "Meles_leucurus_arenarius","size": 300 },
+                   {"name": "Meles_leucurus_leucurus","size": 300 },
+                   {"name": "Meles_leucurus_amurensis","size": 300 },
+                   {"name": "Meles_leucurus_sibiricus","size": 300 },
+                   {"name": "Meles_leucurus_tianschanensis","size": 300 } ]
+ },
+                {"name": "Meles_anakuma","size": 300 },
+                {"name": "Meles_iberica","size": 300 },
+                {"name": "Meles_meles", "children": [
+                   {"name": "Meles_meles_rhodius","size": 300 },
+                   {"name": "Meles_meles_milleri","size": 300 },
+                   {"name": "Meles_meles_canescens","size": 300 },
+                   {"name": "Meles_meles_marianensis","size": 300 },
+                   {"name": "Meles_meles_severzovi","size": 300 },
+                   {"name": "Meles_meles_meles","size": 300 },
+                   {"name": "Meles_meles_arcalus","size": 300 },
+                   {"name": "Meles_meles_heptneri","size": 300 } ]
+ } ]
+ },
+             {"name": "Eira", "children": [
+                {"name": "Eira_barbara", "children": [
+                   {"name": "Eira_barbara_senex","size": 300 },
+                   {"name": "Eira_barbara_senilis","size": 300 },
+                   {"name": "Eira_barbara_peruana","size": 300 },
+                   {"name": "Eira_barbara_biologiae","size": 300 },
+                   {"name": "Eira_barbara_poliocephala","size": 300 },
+                   {"name": "Eira_barbara_sinuensis","size": 300 },
+                   {"name": "Eira_barbara_barbara","size": 300 },
+                   {"name": "Eira_barbara_madeirensis","size": 300 },
+                   {"name": "Eira_barbara_inserta","size": 300 } ]
+ } ]
+ },
+             {"name": "Vormela", "children": [
+                {"name": "Vormela_peregusna", "children": [
+                   {"name": "Vormela_peregusna_syriaca","size": 300 },
+                   {"name": "Vormela_peregusna_negans","size": 300 },
+                   {"name": "Vormela_peregusna_pallidior","size": 300 },
+                   {"name": "Vormela_peregusna_peregusna","size": 300 },
+                   {"name": "Vormela_peregusna_koshewnikowi","size": 300 } ]
+ } ]
+ },
+             {"name": "Lyncodon", "children": [
+                {"name": "Lyncodon_patagonicus", "children": [
+                   {"name": "Lyncodon_patagonicus_thomasi","size": 300 },
+                   {"name": "Lyncodon_patagonicus_patagonicus","size": 300 } ]
+ } ]
+ },
+             {"name": "Mustela", "children": [
+                {"name": "Mustela_sibirica", "children": [
+                   {"name": "Mustela_sibirica_hodgsoni","size": 300 },
+                   {"name": "Mustela_sibirica_coreanus","size": 300 },
+                   {"name": "Mustela_sibirica_quelpartis","size": 300 },
+                   {"name": "Mustela_sibirica_davidiana","size": 300 },
+                   {"name": "Mustela_sibirica_manchurica","size": 300 },
+                   {"name": "Mustela_sibirica_charbinensis","size": 300 },
+                   {"name": "Mustela_sibirica_sibirica","size": 300 },
+                   {"name": "Mustela_sibirica_moupinensis","size": 300 },
+                   {"name": "Mustela_sibirica_canigula","size": 300 },
+                   {"name": "Mustela_sibirica_subhemachalana","size": 300 },
+                   {"name": "Mustela_sibirica_fontanierii","size": 300 } ]
+ },
+                {"name": "Mustela_itatsi","size": 300 },
+                {"name": "Mustela_erminea", "children": [
+                   {"name": "Mustela_erminea_haidarum","size": 300 },
+                   {"name": "Mustela_erminea_tobolica","size": 300 },
+                   {"name": "Mustela_erminea_salva","size": 300 },
+                   {"name": "Mustela_erminea_teberdina","size": 300 },
+                   {"name": "Mustela_erminea_invicta","size": 300 },
+                   {"name": "Mustela_erminea_polaris","size": 300 },
+                   {"name": "Mustela_erminea_hibernica","size": 300 },
+                   {"name": "Mustela_erminea_celenda","size": 300 },
+                   {"name": "Mustela_erminea_ricinae","size": 300 },
+                   {"name": "Mustela_erminea_anguinae","size": 300 },
+                   {"name": "Mustela_erminea_cigognanii","size": 300 },
+                   {"name": "Mustela_erminea_erminea","size": 300 },
+                   {"name": "Mustela_erminea_semplei","size": 300 },
+                   {"name": "Mustela_erminea_gulosa","size": 300 },
+                   {"name": "Mustela_erminea_karaginensis","size": 300 },
+                   {"name": "Mustela_erminea_kaneii","size": 300 },
+                   {"name": "Mustela_erminea_bangsi","size": 300 },
+                   {"name": "Mustela_erminea_fallenda","size": 300 },
+                   {"name": "Mustela_erminea_richardsonii","size": 300 },
+                   {"name": "Mustela_erminea_seclusa","size": 300 },
+                   {"name": "Mustela_erminea_alascensis","size": 300 },
+                   {"name": "Mustela_erminea_kadiacensis","size": 300 },
+                   {"name": "Mustela_erminea_aestiva","size": 300 },
+                   {"name": "Mustela_erminea_olympica","size": 300 },
+                   {"name": "Mustela_erminea_initis","size": 300 },
+                   {"name": "Mustela_erminea_martinoi","size": 300 },
+                   {"name": "Mustela_erminea_nippon","size": 300 },
+                   {"name": "Mustela_erminea_ognevi","size": 300 },
+                   {"name": "Mustela_erminea_muricus","size": 300 },
+                   {"name": "Mustela_erminea_stabilis","size": 300 },
+                   {"name": "Mustela_erminea_minima","size": 300 },
+                   {"name": "Mustela_erminea_lymani","size": 300 },
+                   {"name": "Mustela_erminea_ferghanae","size": 300 },
+                   {"name": "Mustela_erminea_mongolica","size": 300 },
+                   {"name": "Mustela_erminea_streatori","size": 300 },
+                   {"name": "Mustela_erminea_augustidens","size": 300 },
+                   {"name": "Mustela_erminea_arctica","size": 300 } ]
+ },
+                {"name": "Mustela_frenata", "children": [
+                   {"name": "Mustela_frenata_primulina","size": 300 },
+                   {"name": "Mustela_frenata_oregonensis","size": 300 },
+                   {"name": "Mustela_frenata_washingtoni","size": 300 },
+                   {"name": "Mustela_frenata_effera","size": 300 },
+                   {"name": "Mustela_frenata_costaricensis","size": 300 },
+                   {"name": "Mustela_frenata_oribasus","size": 300 },
+                   {"name": "Mustela_frenata_perotae","size": 300 },
+                   {"name": "Mustela_frenata_latirostra","size": 300 },
+                   {"name": "Mustela_frenata_nigriauris","size": 300 },
+                   {"name": "Mustela_frenata_neomexicanus","size": 300 },
+                   {"name": "Mustela_frenata_munda","size": 300 },
+                   {"name": "Mustela_frenata_texensis","size": 300 },
+                   {"name": "Mustela_frenata_pulchra","size": 300 },
+                   {"name": "Mustela_frenata_nevadensis","size": 300 },
+                   {"name": "Mustela_frenata_goldmani","size": 300 },
+                   {"name": "Mustela_frenata_spadix","size": 300 },
+                   {"name": "Mustela_frenata_nicaraquae","size": 300 },
+                   {"name": "Mustela_frenata_longicauda","size": 300 },
+                   {"name": "Mustela_frenata_perda","size": 300 },
+                   {"name": "Mustela_frenata_helleri","size": 300 },
+                   {"name": "Mustela_frenata_noveboracensis","size": 300 },
+                   {"name": "Mustela_frenata_agilis","size": 300 },
+                   {"name": "Mustela_frenata_boliviensis","size": 300 },
+                   {"name": "Mustela_frenata_peninsulae","size": 300 },
+                   {"name": "Mustela_frenata_leucoparia","size": 300 },
+                   {"name": "Mustela_frenata_gracilis","size": 300 },
+                   {"name": "Mustela_frenata_aureoventris","size": 300 },
+                   {"name": "Mustela_frenata_olivacea","size": 300 },
+                   {"name": "Mustela_frenata_inyoensis","size": 300 },
+                   {"name": "Mustela_frenata_arthuri","size": 300 },
+                   {"name": "Mustela_frenata_affinis","size": 300 },
+                   {"name": "Mustela_frenata_macrophonius","size": 300 },
+                   {"name": "Mustela_frenata_occisor","size": 300 },
+                   {"name": "Mustela_frenata_arizonensis","size": 300 },
+                   {"name": "Mustela_frenata_tropicalis","size": 300 },
+                   {"name": "Mustela_frenata_frenata","size": 300 },
+                   {"name": "Mustela_frenata_altifrontalis","size": 300 },
+                   {"name": "Mustela_frenata_saturata","size": 300 },
+                   {"name": "Mustela_frenata_xanthogenys","size": 300 },
+                   {"name": "Mustela_frenata_alleni","size": 300 },
+                   {"name": "Mustela_frenata_panamensis","size": 300 },
+                   {"name": "Mustela_frenata_notius","size": 300 } ]
+ },
+                {"name": "Mustela_nudipes", "children": [
+                   {"name": "Mustela_nudipes_nudipes","size": 300 },
+                   {"name": "Mustela_nudipes_leucocephalus","size": 300 } ]
+ },
+                {"name": "Mustela_kathiah", "children": [
+                   {"name": "Mustela_kathiah_kathiah","size": 300 },
+                   {"name": "Mustela_kathiah_caporiaccoi","size": 300 } ]
+ },
+                {"name": "Mustela_eversmanii", "children": [
+                   {"name": "Mustela_eversmanii_eversmanii","size": 300 },
+                   {"name": "Mustela_eversmanii_amurensis","size": 300 },
+                   {"name": "Mustela_eversmanii_larvatus","size": 300 },
+                   {"name": "Mustela_eversmanii_talassicus","size": 300 },
+                   {"name": "Mustela_eversmanii_admirata","size": 300 },
+                   {"name": "Mustela_eversmanii_hungarica","size": 300 },
+                   {"name": "Mustela_eversmanii_michnoi","size": 300 } ]
+ },
+                {"name": "Mustela_lutreolina","size": 300 },
+                {"name": "Mustela_lutreola", "children": [
+                   {"name": "Mustela_lutreola_turovi","size": 300 },
+                   {"name": "Mustela_lutreola_lutreola","size": 300 },
+                   {"name": "Mustela_lutreola_binominata","size": 300 },
+                   {"name": "Mustela_lutreola_cylipena","size": 300 },
+                   {"name": "Mustela_lutreola_transsylvanica","size": 300 },
+                   {"name": "Mustela_lutreola_biedermanni","size": 300 },
+                   {"name": "Mustela_lutreola_novikovi","size": 300 } ]
+ },
+                {"name": "Mustela_altaica", "children": [
+                   {"name": "Mustela_altaica_birulai","size": 300 },
+                   {"name": "Mustela_altaica_temon","size": 300 },
+                   {"name": "Mustela_altaica_altaica","size": 300 },
+                   {"name": "Mustela_altaica_raddei","size": 300 } ]
+ },
+                {"name": "Mustela_felipei","size": 300 },
+                {"name": "Mustela_strigidorsa","size": 300 },
+                {"name": "Mustela_subpalmata","size": 300 },
+                {"name": "Mustela_nivalis", "children": [
+                   {"name": "Mustela_nivalis_eskimo","size": 300 },
+                   {"name": "Mustela_nivalis_allegheniensis","size": 300 },
+                   {"name": "Mustela_nivalis_rixosa","size": 300 },
+                   {"name": "Mustela_nivalis_mosanensis","size": 300 },
+                   {"name": "Mustela_nivalis_tonkinensis","size": 300 },
+                   {"name": "Mustela_nivalis_nivalis","size": 300 },
+                   {"name": "Mustela_nivalis_vulgaris","size": 300 },
+                   {"name": "Mustela_nivalis_namiyei","size": 300 },
+                   {"name": "Mustela_nivalis_boccamela","size": 300 },
+                   {"name": "Mustela_nivalis_rossica","size": 300 },
+                   {"name": "Mustela_nivalis_campestris","size": 300 },
+                   {"name": "Mustela_nivalis_caucasica","size": 300 },
+                   {"name": "Mustela_nivalis_stoliczkana","size": 300 },
+                   {"name": "Mustela_nivalis_numidica","size": 300 },
+                   {"name": "Mustela_nivalis_pallida","size": 300 },
+                   {"name": "Mustela_nivalis_pygmaea","size": 300 },
+                   {"name": "Mustela_nivalis_heptneri","size": 300 },
+                   {"name": "Mustela_nivalis_russelliana","size": 300 } ]
+ },
+                {"name": "Mustela_nigripes","size": 300 },
+                {"name": "Mustela_africana", "children": [
+                   {"name": "Mustela_africana_africana","size": 300 },
+                   {"name": "Mustela_africana_stolzmanni","size": 300 } ]
+ },
+                {"name": "Mustela_putorius", "children": [
+                   {"name": "Mustela_putorius_caledoniae","size": 300 },
+                   {"name": "Mustela_putorius_mosquensis","size": 300 },
+                   {"name": "Mustela_putorius_putorius","size": 300 },
+                   {"name": "Mustela_putorius_aureola","size": 300 },
+                   {"name": "Mustela_putorius_anglia","size": 300 },
+                   {"name": "Mustela_putorius_rothschildi","size": 300 },
+                   {"name": "Mustela_putorius_furo","size": 300 } ]
+ } ]
+ },
+             {"name": "Taxidea", "children": [
+                {"name": "Taxidea_taxus", "children": [
+                   {"name": "Taxidea_taxus_jeffersonii","size": 300 },
+                   {"name": "Taxidea_taxus_taxus","size": 300 },
+                   {"name": "Taxidea_taxus_berlanderi","size": 300 },
+                   {"name": "Taxidea_taxus_jacksoni","size": 300 },
+                   {"name": "Taxidea_taxus_marylandica","size": 300 } ]
+ } ]
+ } ]
+ } ]
+ },
+       {"name": "Procyonidae", "children": [
+          {"name": "Potosinae", "children": [
+             {"name": "Bassaricyon", "children": [
+                {"name": "Bassaricyon_lasius","size": 300 },
+                {"name": "Bassaricyon_pauli","size": 300 },
+                {"name": "Bassaricyon_gabbii","size": 300 },
+                {"name": "Bassaricyon_beddardi","size": 300 },
+                {"name": "Bassaricyon_alleni","size": 300 } ]
+ },
+             {"name": "Potos", "children": [
+                {"name": "Potos_flavus", "children": [
+                   {"name": "Potos_flavus_chapadensis","size": 300 },
+                   {"name": "Potos_flavus_modestus","size": 300 },
+                   {"name": "Potos_flavus_megalotus","size": 300 },
+                   {"name": "Potos_flavus_nocturnus","size": 300 },
+                   {"name": "Potos_flavus_meridensis","size": 300 },
+                   {"name": "Potos_flavus_flavus","size": 300 },
+                   {"name": "Potos_flavus_chiriquensis","size": 300 } ]
+ } ]
+ } ]
+ },
+          {"name": "Procyoninae", "children": [
+             {"name": "Procyon", "children": [
+                {"name": "Procyon_lotor", "children": [
+                   {"name": "Procyon_lotor_incautus","size": 300 },
+                   {"name": "Procyon_lotor_marinus","size": 300 },
+                   {"name": "Procyon_lotor_fuscipes","size": 300 },
+                   {"name": "Procyon_lotor_elucus","size": 300 },
+                   {"name": "Procyon_lotor_grinnelli","size": 300 },
+                   {"name": "Procyon_lotor_lotor","size": 300 },
+                   {"name": "Procyon_lotor_auspicatus","size": 300 },
+                   {"name": "Procyon_lotor_pumilus","size": 300 },
+                   {"name": "Procyon_lotor_insularis","size": 300 },
+                   {"name": "Procyon_lotor_gloveralleni","size": 300 },
+                   {"name": "Procyon_lotor_simus","size": 300 },
+                   {"name": "Procyon_lotor_pallidus","size": 300 },
+                   {"name": "Procyon_lotor_vancouverensis","size": 300 },
+                   {"name": "Procyon_lotor_maynardi","size": 300 },
+                   {"name": "Procyon_lotor_hernandezii","size": 300 },
+                   {"name": "Procyon_lotor_hirtus","size": 300 },
+                   {"name": "Procyon_lotor_inesperatus","size": 300 },
+                   {"name": "Procyon_lotor_litoreus","size": 300 },
+                   {"name": "Procyon_lotor_psora","size": 300 },
+                   {"name": "Procyon_lotor_megalodous","size": 300 },
+                   {"name": "Procyon_lotor_pacificus","size": 300 },
+                   {"name": "Procyon_lotor_excelsus","size": 300 } ]
+ },
+                {"name": "Procyon_pygmaeus","size": 300 },
+                {"name": "Procyon_cancrivorus", "children": [
+                   {"name": "Procyon_cancrivorus_cancrivorus","size": 300 },
+                   {"name": "Procyon_cancrivorus_panamensis","size": 300 },
+                   {"name": "Procyon_cancrivorus_nigripes","size": 300 },
+                   {"name": "Procyon_cancrivorus_aequatorialis","size": 300 } ]
+ } ]
+ },
+             {"name": "Bassariscus", "children": [
+                {"name": "Bassariscus_antiquus","size": 300 },
+                {"name": "Bassariscus_sumichrasti", "children": [
+                   {"name": "Bassariscus_sumichrasti_oaxacensis","size": 300 },
+                   {"name": "Bassariscus_sumichrasti_notinus","size": 300 },
+                   {"name": "Bassariscus_sumichrasti_sumichrasti","size": 300 },
+                   {"name": "Bassariscus_sumichrasti_latrans","size": 300 },
+                   {"name": "Bassariscus_sumichrasti_variabilis","size": 300 } ]
+ },
+                {"name": "Bassariscus_minimus","size": 300 },
+                {"name": "Bassariscus_astutus", "children": [
+                   {"name": "Bassariscus_astutus_nevadensis","size": 300 },
+                   {"name": "Bassariscus_astutus_insulicola","size": 300 },
+                   {"name": "Bassariscus_astutus_willetti","size": 300 },
+                   {"name": "Bassariscus_astutus_bolei","size": 300 },
+                   {"name": "Bassariscus_astutus_consitus","size": 300 },
+                   {"name": "Bassariscus_astutus_yumanensis","size": 300 },
+                   {"name": "Bassariscus_astutus_octavus","size": 300 },
+                   {"name": "Bassariscus_astutus_saxicola","size": 300 },
+                   {"name": "Bassariscus_astutus_flavus","size": 300 },
+                   {"name": "Bassariscus_astutus_astutus","size": 300 },
+                   {"name": "Bassariscus_astutus_macdougalli","size": 300 },
+                   {"name": "Bassariscus_astutus_arizonensis","size": 300 },
+                   {"name": "Bassariscus_astutus_palmarius","size": 300 },
+                   {"name": "Bassariscus_astutus_raptor","size": 300 } ]
+ } ]
+ },
+             {"name": "Nasua", "children": [
+                {"name": "Nasua_nelsoni","size": 300 },
+                {"name": "Nasua_narica", "children": [
+                   {"name": "Nasua_narica_molaris","size": 300 },
+                   {"name": "Nasua_narica_nelsoni","size": 300 },
+                   {"name": "Nasua_narica_narica","size": 300 },
+                   {"name": "Nasua_narica_yucatanica","size": 300 } ]
+ },
+                {"name": "Nasua_nasua","size": 300 } ]
+ },
+             {"name": "Nasuella", "children": [
+                {"name": "Nasuella_olivacea", "children": [
+                   {"name": "Nasuella_olivacea_meridensis","size": 300 },
+                   {"name": "Nasuella_olivacea_quitensis","size": 300 },
+                   {"name": "Nasuella_olivacea_olivacea","size": 300 } ]
+ } ]
+ },
+             {"name": "Probassariscus","size": 300 } ]
+ } ]
+ },
+       {"name": "Phocidae", "children": [
+          {"name": "Cystophora", "children": [
+             {"name": "Cystophora_cristata","size": 300 } ]
+ },
+          {"name": "Mirounga", "children": [
+             {"name": "Mirounga_leonina","size": 300 },
+             {"name": "Mirounga_angustirostris","size": 300 } ]
+ },
+          {"name": "Leptonychotes", "children": [
+             {"name": "Leptonychotes_weddellii","size": 300 } ]
+ },
+          {"name": "Phoca", "children": [
+             {"name": "Phoca_largha","size": 300 },
+             {"name": "Phoca_vitulina", "children": [
+                {"name": "Phoca_vitulina_vitulina","size": 300 },
+                {"name": "Phoca_vitulina_richardii","size": 300 },
+                {"name": "Phoca_vitulina_stejnergeri","size": 300 },
+                {"name": "Phoca_vitulina_mellonae","size": 300 },
+                {"name": "Phoca_vitulina_concolor","size": 300 } ]
+ } ]
+ },
+          {"name": "Histriophoca", "children": [
+             {"name": "Histriophoca_fasciata","size": 300 } ]
+ },
+          {"name": "Halichoerus", "children": [
+             {"name": "Halichoerus_grypus", "children": [
+                {"name": "Halichoerus_grypus_grypus","size": 300 },
+                {"name": "Halichoerus_grypus_macrorhynchus","size": 300 } ]
+ } ]
+ },
+          {"name": "Ommatophoca", "children": [
+             {"name": "Ommatophoca_rossii","size": 300 } ]
+ },
+          {"name": "Hydrurga", "children": [
+             {"name": "Hydrurga_leptonyx","size": 300 } ]
+ },
+          {"name": "Pagophilus", "children": [
+             {"name": "Pagophilus_groenlandicus","size": 300 } ]
+ },
+          {"name": "Lobodon", "children": [
+             {"name": "Lobodon_carcinophagus","size": 300 } ]
+ },
+          {"name": "Erignathus", "children": [
+             {"name": "Erignathus_barbatus", "children": [
+                {"name": "Erignathus_barbatus_barbatus","size": 300 },
+                {"name": "Erignathus_barbatus_nautica","size": 300 } ]
+ } ]
+ },
+          {"name": "Pusa", "children": [
+             {"name": "Pusa_hispida", "children": [
+                {"name": "Pusa_hispida_saimensis","size": 300 },
+                {"name": "Pusa_hispida_ochotensis","size": 300 },
+                {"name": "Pusa_hispida_ladogensis","size": 300 },
+                {"name": "Pusa_hispida_hispida","size": 300 },
+                {"name": "Pusa_hispida_botnica","size": 300 } ]
+ },
+             {"name": "Pusa_sibirica","size": 300 },
+             {"name": "Pusa_caspica","size": 300 } ]
+ },
+          {"name": "Monachus", "children": [
+             {"name": "Monachus_tropicalis","size": 300 },
+             {"name": "Monachus_schauinslandi","size": 300 },
+             {"name": "Monachus_monachus","size": 300 } ]
+ } ]
+ },
+       {"name": "Amphicyonidae", "children": [
+          {"name": "Maemohcyon","size": 300 } ]
+ },
+       {"name": "Mephitidae", "children": [
+          {"name": "Spilogale", "children": [
+             {"name": "Spilogale_putorius", "children": [
+                {"name": "Spilogale_putorius_putorius","size": 300 },
+                {"name": "Spilogale_putorius_interrupta","size": 300 },
+                {"name": "Spilogale_putorius_ambarvalis","size": 300 } ]
+ },
+             {"name": "Spilogale_pygmaea", "children": [
+                {"name": "Spilogale_pygmaea_intermedia","size": 300 },
+                {"name": "Spilogale_pygmaea_pygmaea","size": 300 },
+                {"name": "Spilogale_pygmaea_australis","size": 300 } ]
+ },
+             {"name": "Spilogale_angustifrons", "children": [
+                {"name": "Spilogale_angustifrons_yucatanensis","size": 300 },
+                {"name": "Spilogale_angustifrons_tropicalis","size": 300 },
+                {"name": "Spilogale_angustifrons_celeris","size": 300 },
+                {"name": "Spilogale_angustifrons_elata","size": 300 },
+                {"name": "Spilogale_angustifrons_angustifrons","size": 300 } ]
+ },
+             {"name": "Spilogale_gracilis", "children": [
+                {"name": "Spilogale_gracilis_phenax","size": 300 },
+                {"name": "Spilogale_gracilis_latifrons","size": 300 },
+                {"name": "Spilogale_gracilis_amphialus","size": 300 },
+                {"name": "Spilogale_gracilis_martirensis","size": 300 },
+                {"name": "Spilogale_gracilis_leucoparia","size": 300 },
+                {"name": "Spilogale_gracilis_gracilis","size": 300 },
+                {"name": "Spilogale_gracilis_lucasana","size": 300 } ]
+ } ]
+ },
+          {"name": "Mephitis", "children": [
+             {"name": "Mephitis_mephitis", "children": [
+                {"name": "Mephitis_mephitis_notata","size": 300 },
+                {"name": "Mephitis_mephitis_avia","size": 300 },
+                {"name": "Mephitis_mephitis_hudsonica","size": 300 },
+                {"name": "Mephitis_mephitis_elongata","size": 300 },
+                {"name": "Mephitis_mephitis_estor","size": 300 },
+                {"name": "Mephitis_mephitis_spissigrada","size": 300 },
+                {"name": "Mephitis_mephitis_holzneri","size": 300 },
+                {"name": "Mephitis_mephitis_major","size": 300 },
+                {"name": "Mephitis_mephitis_mephitis","size": 300 },
+                {"name": "Mephitis_mephitis_occidentalis","size": 300 },
+                {"name": "Mephitis_mephitis_mesomelas","size": 300 },
+                {"name": "Mephitis_mephitis_nigra","size": 300 },
+                {"name": "Mephitis_mephitis_varians","size": 300 } ]
+ },
+             {"name": "Mephitis_macroura", "children": [
+                {"name": "Mephitis_macroura_eximius","size": 300 },
+                {"name": "Mephitis_macroura_richardsoni","size": 300 },
+                {"name": "Mephitis_macroura_macroura","size": 300 },
+                {"name": "Mephitis_macroura_milleri","size": 300 } ]
+ } ]
+ },
+          {"name": "Mydaus", "children": [
+             {"name": "Mydaus_marchei","size": 300 },
+             {"name": "Mydaus_javanensis", "children": [
+                {"name": "Mydaus_javanensis_ollula","size": 300 },
+                {"name": "Mydaus_javanensis_javanensis","size": 300 },
+                {"name": "Mydaus_javanensis_lucifer","size": 300 } ]
+ } ]
+ },
+          {"name": "Martinogale","size": 300 },
+          {"name": "Conepatus", "children": [
+             {"name": "Conepatus_leuconotus", "children": [
+                {"name": "Conepatus_leuconotus_figginsi","size": 300 },
+                {"name": "Conepatus_leuconotus_telmalestes","size": 300 },
+                {"name": "Conepatus_leuconotus_leuconotus","size": 300 } ]
+ },
+             {"name": "Conepatus_semistriatus", "children": [
+                {"name": "Conepatus_semistriatus_taxinus","size": 300 },
+                {"name": "Conepatus_semistriatus_zorrino","size": 300 },
+                {"name": "Conepatus_semistriatus_trichurus","size": 300 },
+                {"name": "Conepatus_semistriatus_amazonicus","size": 300 },
+                {"name": "Conepatus_semistriatus_semistriatus","size": 300 },
+                {"name": "Conepatus_semistriatus_yucatanicus","size": 300 } ]
+ },
+             {"name": "Conepatus_humboldtii", "children": [
+                {"name": "Conepatus_humboldtii_humboldtii","size": 300 },
+                {"name": "Conepatus_humboldtii_castaneus","size": 300 },
+                {"name": "Conepatus_humboldtii_proteus","size": 300 } ]
+ },
+             {"name": "Conepatus_chinga", "children": [
+                {"name": "Conepatus_chinga_chinga","size": 300 },
+                {"name": "Conepatus_chinga_budini","size": 300 },
+                {"name": "Conepatus_chinga_suffocans","size": 300 },
+                {"name": "Conepatus_chinga_gibsoni","size": 300 },
+                {"name": "Conepatus_chinga_mendosus","size": 300 },
+                {"name": "Conepatus_chinga_inca","size": 300 },
+                {"name": "Conepatus_chinga_rex","size": 300 } ]
+ } ]
+ } ]
+ },
+       {"name": "Ursidae", "children": [
+          {"name": "Arctodus", "children": [
+             {"name": "Arctodus_pristinus","size": 300 },
+             {"name": "Arctodus_simus","size": 300 } ]
+ },
+          {"name": "Arctotherium","size": 300 },
+          {"name": "Kretzoiarctos","size": 300 },
+          {"name": "Helarctos", "children": [
+             {"name": "Helarctos_malayanus", "children": [
+                {"name": "Helarctos_malayanus_malayanus","size": 300 },
+                {"name": "Helarctos_malayanus_euryspilus","size": 300 } ]
+ } ]
+ },
+          {"name": "Tremarctos", "children": [
+             {"name": "Tremarctos_ornatus","size": 300 },
+             {"name": "Tremarctos_floridanus","size": 300 } ]
+ },
+          {"name": "Ailuropoda", "children": [
+             {"name": "Ailuropoda_minor","size": 300 },
+             {"name": "Ailuropoda_wulingshanensis","size": 300 },
+             {"name": "Ailuropoda_melanoleuca", "children": [
+                {"name": "Ailuropoda_melanoleuca_melanoleuca","size": 300 },
+                {"name": "Ailuropoda_melanoleuca_qinlingensis","size": 300 } ]
+ },
+             {"name": "Ailuropoda_microta","size": 300 },
+             {"name": "Ailuropoda_baconi","size": 300 } ]
+ },
+          {"name": "Ursus", "children": [
+             {"name": "Ursus_thibetanus","size": 300 },
+             {"name": "Ursus_arctos", "children": [
+                {"name": "Ursus_arctos_crowtheri","size": 300 },
+                {"name": "Ursus_arctos_californicus","size": 300 },
+                {"name": "Ursus_arctos_collaris","size": 300 },
+                {"name": "Ursus_arctos_horribilis","size": 300 },
+                {"name": "Ursus_arctos_nelsoni","size": 300 },
+                {"name": "Ursus_arctos_stikeenensis","size": 300 },
+                {"name": "Ursus_arctos_arctos","size": 300 },
+                {"name": "Ursus_arctos_beringianus","size": 300 },
+                {"name": "Ursus_arctos_middendorffi","size": 300 },
+                {"name": "Ursus_arctos_gyas","size": 300 },
+                {"name": "Ursus_arctos_yesoensis","size": 300 },
+                {"name": "Ursus_arctos_sitkensis","size": 300 },
+                {"name": "Ursus_arctos_isabellinus","size": 300 },
+                {"name": "Ursus_arctos_syriacus","size": 300 },
+                {"name": "Ursus_arctos_marsicanus","size": 300 },
+                {"name": "Ursus_arctos_pruinosus","size": 300 },
+                {"name": "Ursus_arctos_alascensis","size": 300 },
+                {"name": "Ursus_arctos_dalli","size": 300 },
+                {"name": "Ursus_arctos_lasiotus","size": 300 } ]
+ },
+             {"name": "Ursus_minimus","size": 300 },
+             {"name": "Ursus_americanus", "children": [
+                {"name": "Ursus_americanus_hamiltoni","size": 300 },
+                {"name": "Ursus_americanus_floridanus","size": 300 },
+                {"name": "Ursus_americanus_eremicus","size": 300 },
+                {"name": "Ursus_americanus_americanus","size": 300 },
+                {"name": "Ursus_americanus_carlottae","size": 300 },
+                {"name": "Ursus_americanus_perniger","size": 300 },
+                {"name": "Ursus_americanus_amblyceps","size": 300 },
+                {"name": "Ursus_americanus_cinnamomum","size": 300 },
+                {"name": "Ursus_americanus_kermodei","size": 300 },
+                {"name": "Ursus_americanus_emmonsii","size": 300 },
+                {"name": "Ursus_americanus_vancouveri","size": 300 },
+                {"name": "Ursus_americanus_luteolus","size": 300 },
+                {"name": "Ursus_americanus_pugnax","size": 300 },
+                {"name": "Ursus_americanus_altifrontalis","size": 300 },
+                {"name": "Ursus_americanus_machetes","size": 300 },
+                {"name": "Ursus_americanus_californiensis","size": 300 } ]
+ },
+             {"name": "Ursus_etruscus","size": 300 },
+             {"name": "Ursus_spelaeus","size": 300 },
+             {"name": "Ursus_malayanus","size": 300 },
+             {"name": "Ursus_maritimus","size": 300 },
+             {"name": "Ursus_wenzensis","size": 300 } ]
+ },
+          {"name": "Agriarctos","size": 300 },
+          {"name": "Melursus", "children": [
+             {"name": "Melursus_ursinus", "children": [
+                {"name": "Melursus_ursinus_inornatus","size": 300 },
+                {"name": "Melursus_ursinus_ursinus","size": 300 } ]
+ } ]
+ } ]
+ },
+       {"name": "Ailuridae", "children": [
+          {"name": "Parailurus","size": 300 },
+          {"name": "Ailurus", "children": [
+             {"name": "Ailurus_fulgens", "children": [
+                {"name": "Ailurus_fulgens_refulgens","size": 300 },
+                {"name": "Ailurus_fulgens_fulgens","size": 300 } ]
+ } ]
+ },
+          {"name": "Simocyon","size": 300 },
+          {"name": "Pristinailurus","size": 300 } ]
+ },
+       {"name": "Hemicyonidae","size": 300 },
+       {"name": "Odobenidae", "children": [
+          {"name": "Odobenus", "children": [
+             {"name": "Odobenus_rosmarus", "children": [
+                {"name": "Odobenus_rosmarus_rosmarus","size": 300 },
+                {"name": "Odobenus_rosmarus_divergens","size": 300 },
+                {"name": "Odobenus_rosmarus_laptevi","size": 300 } ]
+ } ]
+ },
+          {"name": "Pseudotaria", "children": [
+             {"name": "Pseudotaria_muramotoi","size": 300 } ]
+ } ]
+ },
+       {"name": "Canidae", "children": [
+          {"name": "Borophaginae","size": 300 },
+          {"name": "Caninae", "children": [
+             {"name": "Lycaon", "children": [
+                {"name": "Lycaon_pictus", "children": [
+                   {"name": "Lycaon_pictus_somalicus","size": 300 },
+                   {"name": "Lycaon_pictus_lupinus","size": 300 },
+                   {"name": "Lycaon_pictus_manguensis","size": 300 },
+                   {"name": "Lycaon_pictus_pictus","size": 300 },
+                   {"name": "Lycaon_pictus_sharicus","size": 300 } ]
+ },
+                {"name": "Lycaon_sekowei","size": 300 } ]
+ },
+             {"name": "Chrysocyon", "children": [
+                {"name": "Chrysocyon_brachyurus","size": 300 } ]
+ },
+             {"name": "Vulpini","size": 300 },
+             {"name": "Eucyon","size": 300 },
+             {"name": "Dusicyon", "children": [
+                {"name": "Dusicyon_australis","size": 300 } ]
+ },
+             {"name": "Nyctereutes", "children": [
+                {"name": "Nyctereutes_abdeslami","size": 300 },
+                {"name": "Nyctereutes_tingi","size": 300 },
+                {"name": "Nyctereutes_lockwoodi","size": 300 },
+                {"name": "Nyctereutes_procyonoides", "children": [
+                   {"name": "Nyctereutes_procyonoides_koreensis","size": 300 },
+                   {"name": "Nyctereutes_procyonoides_viverrinus","size": 300 },
+                   {"name": "Nyctereutes_procyonoides_orestes","size": 300 },
+                   {"name": "Nyctereutes_procyonoides_procyonoides","size": 300 },
+                   {"name": "Nyctereutes_procyonoides_ussuriensis","size": 300 } ]
+ } ]
+ },
+             {"name": "Cynotherium","size": 300 },
+             {"name": "Cerdocyon", "children": [
+                {"name": "Cerdocyon_thous", "children": [
+                   {"name": "Cerdocyon_thous_azarae","size": 300 },
+                   {"name": "Cerdocyon_thous_entrerianus","size": 300 },
+                   {"name": "Cerdocyon_thous_soudanicus","size": 300 },
+                   {"name": "Cerdocyon_thous_germanus","size": 300 },
+                   {"name": "Cerdocyon_thous_thous","size": 300 },
+                   {"name": "Cerdocyon_thous_aquilus","size": 300 } ]
+ } ]
+ },
+             {"name": "Speothos", "children": [
+                {"name": "Speothos_venaticus", "children": [
+                   {"name": "Speothos_venaticus_wingei","size": 300 },
+                   {"name": "Speothos_venaticus_panamensis","size": 300 },
+                   {"name": "Speothos_venaticus_venaticus","size": 300 } ]
+ } ]
+ },
+             {"name": "Vulpes", "children": [
+                {"name": "Vulpes_zerda","size": 300 },
+                {"name": "Vulpes_vulpes", "children": [
+                   {"name": "Vulpes_vulpes_fulvus","size": 300 },
+                   {"name": "Vulpes_vulpes_tschiliensis","size": 300 },
+                   {"name": "Vulpes_vulpes_dolichocrania","size": 300 },
+                   {"name": "Vulpes_vulpes_vulpes","size": 300 },
+                   {"name": "Vulpes_vulpes_cascadensis","size": 300 },
+                   {"name": "Vulpes_vulpes_dorsalis","size": 300 },
+                   {"name": "Vulpes_vulpes_griffithi","size": 300 },
+                   {"name": "Vulpes_vulpes_barbara","size": 300 },
+                   {"name": "Vulpes_vulpes_peculiosa","size": 300 },
+                   {"name": "Vulpes_vulpes_alpherakyi","size": 300 },
+                   {"name": "Vulpes_vulpes_tobolica","size": 300 },
+                   {"name": "Vulpes_vulpes_hoole","size": 300 },
+                   {"name": "Vulpes_vulpes_deletrix","size": 300 },
+                   {"name": "Vulpes_vulpes_harrimani","size": 300 },
+                   {"name": "Vulpes_vulpes_kenaiensis","size": 300 },
+                   {"name": "Vulpes_vulpes_necator","size": 300 },
+                   {"name": "Vulpes_vulpes_indutus","size": 300 },
+                   {"name": "Vulpes_vulpes_splendidissima","size": 300 },
+                   {"name": "Vulpes_vulpes_pusilla","size": 300 },
+                   {"name": "Vulpes_vulpes_bangsi","size": 300 },
+                   {"name": "Vulpes_vulpes_rubricosa","size": 300 },
+                   {"name": "Vulpes_vulpes_caucasica","size": 300 },
+                   {"name": "Vulpes_vulpes_beringiana","size": 300 },
+                   {"name": "Vulpes_vulpes_schrenckii","size": 300 },
+                   {"name": "Vulpes_vulpes_daurica","size": 300 },
+                   {"name": "Vulpes_vulpes_crucigera","size": 300 },
+                   {"name": "Vulpes_vulpes_macroura","size": 300 },
+                   {"name": "Vulpes_vulpes_abietorum","size": 300 },
+                   {"name": "Vulpes_vulpes_ochroxantha","size": 300 },
+                   {"name": "Vulpes_vulpes_atlantica","size": 300 },
+                   {"name": "Vulpes_vulpes_silacea","size": 300 },
+                   {"name": "Vulpes_vulpes_japonica","size": 300 },
+                   {"name": "Vulpes_vulpes_palaestina","size": 300 },
+                   {"name": "Vulpes_vulpes_flavescens","size": 300 },
+                   {"name": "Vulpes_vulpes_anatolica","size": 300 },
+                   {"name": "Vulpes_vulpes_jakutensis","size": 300 },
+                   {"name": "Vulpes_vulpes_kurdistanica","size": 300 },
+                   {"name": "Vulpes_vulpes_karagan","size": 300 },
+                   {"name": "Vulpes_vulpes_alascensis","size": 300 },
+                   {"name": "Vulpes_vulpes_regalis","size": 300 },
+                   {"name": "Vulpes_vulpes_arabica","size": 300 },
+                   {"name": "Vulpes_vulpes_stepensis","size": 300 },
+                   {"name": "Vulpes_vulpes_montana","size": 300 },
+                   {"name": "Vulpes_vulpes_ichnusae","size": 300 },
+                   {"name": "Vulpes_vulpes_niloticus","size": 300 } ]
+ },
+                {"name": "Vulpes_bengalensis","size": 300 },
+                {"name": "Vulpes_chama","size": 300 },
+                {"name": "Vulpes_praeglacialis","size": 300 },
+                {"name": "Vulpes_ferrilata","size": 300 },
+                {"name": "Vulpes_riffautae","size": 300 },
+                {"name": "Vulpes_velox","size": 300 },
+                {"name": "Vulpes_cana","size": 300 },
+                {"name": "Vulpes_macrotis","size": 300 },
+                {"name": "Vulpes_lagopus", "children": [
+                   {"name": "Vulpes_lagopus_beringensis","size": 300 },
+                   {"name": "Vulpes_lagopus_fuliginosus","size": 300 },
+                   {"name": "Vulpes_lagopus_pribilofensis","size": 300 },
+                   {"name": "Vulpes_lagopus_lagopus","size": 300 } ]
+ },
+                {"name": "Vulpes_hassani","size": 300 },
+                {"name": "Vulpes_pallida", "children": [
+                   {"name": "Vulpes_pallida_oertzeni","size": 300 },
+                   {"name": "Vulpes_pallida_pallida","size": 300 },
+                   {"name": "Vulpes_pallida_edwardsi","size": 300 },
+                   {"name": "Vulpes_pallida_harterti","size": 300 },
+                   {"name": "Vulpes_pallida_cyrenaica","size": 300 } ]
+ },
+                {"name": "Vulpes_corsac", "children": [
+                   {"name": "Vulpes_corsac_corsac","size": 300 },
+                   {"name": "Vulpes_corsac_kalmykorum","size": 300 } ]
+ },
+                {"name": "Vulpes_rueppellii", "children": [
+                   {"name": "Vulpes_rueppellii_caesia","size": 300 },
+                   {"name": "Vulpes_rueppellii_zarudnyi","size": 300 },
+                   {"name": "Vulpes_rueppellii_cyrenaica","size": 300 },
+                   {"name": "Vulpes_rueppellii_sabaea","size": 300 },
+                   {"name": "Vulpes_rueppellii_rueppellii","size": 300 } ]
+ } ]
+ },
+             {"name": "Atelocynus", "children": [
+                {"name": "Atelocynus_microtis", "children": [
+                   {"name": "Atelocynus_microtis_microtis","size": 300 },
+                   {"name": "Atelocynus_microtis_sclateri","size": 300 } ]
+ } ]
+ },
+             {"name": "Lycalopex", "children": [
+                {"name": "Lycalopex_gymnocercus", "children": [
+                   {"name": "Lycalopex_gymnocercus_gracilis","size": 300 },
+                   {"name": "Lycalopex_gymnocercus_antiquus","size": 300 },
+                   {"name": "Lycalopex_gymnocercus_domeykoanus","size": 300 },
+                   {"name": "Lycalopex_gymnocercus_maullinicus","size": 300 },
+                   {"name": "Lycalopex_gymnocercus_gymnocercus","size": 300 } ]
+ },
+                {"name": "Lycalopex_fulvipes","size": 300 },
+                {"name": "Lycalopex_sechurae","size": 300 },
+                {"name": "Lycalopex_vetulus","size": 300 },
+                {"name": "Lycalopex_culpaeus", "children": [
+                   {"name": "Lycalopex_culpaeus_andinus","size": 300 },
+                   {"name": "Lycalopex_culpaeus_lycoides","size": 300 },
+                   {"name": "Lycalopex_culpaeus_smithersi","size": 300 },
+                   {"name": "Lycalopex_culpaeus_culpaeus","size": 300 },
+                   {"name": "Lycalopex_culpaeus_magellanicus","size": 300 },
+                   {"name": "Lycalopex_culpaeus_reissii","size": 300 } ]
+ },
+                {"name": "Lycalopex_griseus","size": 300 } ]
+ },
+             {"name": "Leptocyon", "children": [
+                {"name": "Leptocyon_delicatus","size": 300 },
+                {"name": "Leptocyon_matthewi","size": 300 },
+                {"name": "Leptocyon_tejonensis","size": 300 },
+                {"name": "Leptocyon_leidyi","size": 300 },
+                {"name": "Leptocyon_vafer","size": 300 },
+                {"name": "Leptocyon_gregorii","size": 300 },
+                {"name": "Leptocyon_douglassi","size": 300 },
+                {"name": "Leptocyon_mollis","size": 300 },
+                {"name": "Leptocyon_vulpinus","size": 300 } ]
+ },
+             {"name": "Urocyon", "children": [
+                {"name": "Urocyon_littoralis", "children": [
+                   {"name": "Urocyon_littoralis_clementae","size": 300 },
+                   {"name": "Urocyon_littoralis_catalinae","size": 300 },
+                   {"name": "Urocyon_littoralis_dickeyi","size": 300 },
+                   {"name": "Urocyon_littoralis_littoralis","size": 300 },
+                   {"name": "Urocyon_littoralis_santarosae","size": 300 },
+                   {"name": "Urocyon_littoralis_santacruzae","size": 300 } ]
+ },
+                {"name": "Urocyon_cinereoargenteus", "children": [
+                   {"name": "Urocyon_cinereoargenteus_borealis","size": 300 },
+                   {"name": "Urocyon_cinereoargenteus_nigrirostris","size": 300 },
+                   {"name": "Urocyon_cinereoargenteus_scotti","size": 300 },
+                   {"name": "Urocyon_cinereoargenteus_fraterculus","size": 300 },
+                   {"name": "Urocyon_cinereoargenteus_guatemalae","size": 300 },
+                   {"name": "Urocyon_cinereoargenteus_venezuelae","size": 300 },
+                   {"name": "Urocyon_cinereoargenteus_orinomous","size": 300 },
+                   {"name": "Urocyon_cinereoargenteus_floridanus","size": 300 },
+                   {"name": "Urocyon_cinereoargenteus_californicus","size": 300 },
+                   {"name": "Urocyon_cinereoargenteus_costaricensis","size": 300 },
+                   {"name": "Urocyon_cinereoargenteus_townsendi","size": 300 },
+                   {"name": "Urocyon_cinereoargenteus_cinereoargenteus","size": 300 },
+                   {"name": "Urocyon_cinereoargenteus_madrensis","size": 300 },
+                   {"name": "Urocyon_cinereoargenteus_ocythous","size": 300 },
+                   {"name": "Urocyon_cinereoargenteus_furvus","size": 300 },
+                   {"name": "Urocyon_cinereoargenteus_peninsularis","size": 300 } ]
+ } ]
+ },
+             {"name": "Otocyon", "children": [
+                {"name": "Otocyon_megalotis", "children": [
+                   {"name": "Otocyon_megalotis_megalotis","size": 300 },
+                   {"name": "Otocyon_megalotis_canescens","size": 300 } ]
+ } ]
+ },
+             {"name": "Canis", "children": [
+                {"name": "Canis_dirus","size": 300 },
+                {"name": "Canis_simensis", "children": [
+                   {"name": "Canis_simensis_citernii","size": 300 },
+                   {"name": "Canis_simensis_simensis","size": 300 } ]
+ },
+                {"name": "Canis_lupus", "children": [
+                   {"name": "Canis_lupus_mogollonensis","size": 300 },
+                   {"name": "Canis_lupus_orion","size": 300 },
+                   {"name": "Canis_lupus_hudsonicus","size": 300 },
+                   {"name": "Canis_lupus_manningi","size": 300 },
+                   {"name": "Canis_lupus_filchneri","size": 300 },
+                   {"name": "Canis_lupus_monstrabilis","size": 300 },
+                   {"name": "Canis_lupus_cubanensis","size": 300 },
+                   {"name": "Canis_lupus_beothucus","size": 300 },
+                   {"name": "Canis_lupus_arabs","size": 300 },
+                   {"name": "Canis_lupus_baileyi","size": 300 },
+                   {"name": "Canis_lupus_dingo","size": 300 },
+                   {"name": "Canis_lupus_fuscus","size": 300 },
+                   {"name": "Canis_lupus_hodophilax","size": 300 },
+                   {"name": "Canis_lupus_arctos","size": 300 },
+                   {"name": "Canis_lupus_familiaris","size": 300 },
+                   {"name": "Canis_lupus_crassodon","size": 300 },
+                   {"name": "Canis_lupus_pallipes","size": 300 },
+                   {"name": "Canis_lupus_lupus","size": 300 },
+                   {"name": "Canis_lupus_signatus","size": 300 },
+                   {"name": "Canis_lupus_floridanus","size": 300 },
+                   {"name": "Canis_lupus_albus","size": 300 },
+                   {"name": "Canis_lupus_columbianus","size": 300 },
+                   {"name": "Canis_lupus_tundrarum","size": 300 },
+                   {"name": "Canis_lupus_labradorius","size": 300 },
+                   {"name": "Canis_lupus_ligoni","size": 300 },
+                   {"name": "Canis_lupus_chanco","size": 300 },
+                   {"name": "Canis_lupus_occidentalis","size": 300 },
+                   {"name": "Canis_lupus_campestris","size": 300 },
+                   {"name": "Canis_lupus_irremotus","size": 300 },
+                   {"name": "Canis_lupus_griseoalbus","size": 300 },
+                   {"name": "Canis_lupus_pambasileus","size": 300 },
+                   {"name": "Canis_lupus_communis","size": 300 },
+                   {"name": "Canis_lupus_gregoryi","size": 300 },
+                   {"name": "Canis_lupus_alces","size": 300 },
+                   {"name": "Canis_lupus_mackenzii","size": 300 },
+                   {"name": "Canis_lupus_nubilus","size": 300 },
+                   {"name": "Canis_lupus_italicus","size": 300 },
+                   {"name": "Canis_lupus_youngi","size": 300 } ]
+ },
+                {"name": "Canis_himalayensis","size": 300 },
+                {"name": "Canis_ursinus","size": 300 },
+                {"name": "Canis_mesomelas", "children": [
+                   {"name": "Canis_mesomelas_schmidti","size": 300 },
+                   {"name": "Canis_mesomelas_mesomelas","size": 300 } ]
+ },
+                {"name": "Canis_latrans", "children": [
+                   {"name": "Canis_latrans_frustror","size": 300 },
+                   {"name": "Canis_latrans_latrans","size": 300 },
+                   {"name": "Canis_latrans_ochropus","size": 300 },
+                   {"name": "Canis_latrans_mearnsi","size": 300 },
+                   {"name": "Canis_latrans_peninsulae","size": 300 },
+                   {"name": "Canis_latrans_clepticus","size": 300 },
+                   {"name": "Canis_latrans_goldmani","size": 300 },
+                   {"name": "Canis_latrans_thamnos","size": 300 },
+                   {"name": "Canis_latrans_hondurensis","size": 300 },
+                   {"name": "Canis_latrans_cagottis","size": 300 },
+                   {"name": "Canis_latrans_umpquensis","size": 300 },
+                   {"name": "Canis_latrans_microdon","size": 300 },
+                   {"name": "Canis_latrans_lestes","size": 300 },
+                   {"name": "Canis_latrans_texensis","size": 300 },
+                   {"name": "Canis_latrans_vigilis","size": 300 },
+                   {"name": "Canis_latrans_incolatus","size": 300 },
+                   {"name": "Canis_latrans_jamesi","size": 300 },
+                   {"name": "Canis_latrans_impavidus","size": 300 },
+                   {"name": "Canis_latrans_dickeyi","size": 300 } ]
+ },
+                {"name": "Canis_aureus", "children": [
+                   {"name": "Canis_aureus_lupaster","size": 300 },
+                   {"name": "Canis_aureus_bea","size": 300 },
+                   {"name": "Canis_aureus_indicus","size": 300 },
+                   {"name": "Canis_aureus_anthus","size": 300 },
+                   {"name": "Canis_aureus_cruesemanni","size": 300 },
+                   {"name": "Canis_aureus_algirensis","size": 300 },
+                   {"name": "Canis_aureus_ecsedensis","size": 300 },
+                   {"name": "Canis_aureus_moreotica","size": 300 },
+                   {"name": "Canis_aureus_naria","size": 300 },
+                   {"name": "Canis_aureus_syriacus","size": 300 },
+                   {"name": "Canis_aureus_riparius","size": 300 },
+                   {"name": "Canis_aureus_aureus","size": 300 },
+                   {"name": "Canis_aureus_soudanicus","size": 300 } ]
+ },
+                {"name": "Canis_ferox","size": 300 },
+                {"name": "Canis_lupus_lycaon","size": 300 },
+                {"name": "Canis_hallstromi","size": 300 },
+                {"name": "Canis_lupus_rufus","size": 300 },
+                {"name": "Canis_adustus", "children": [
+                   {"name": "Canis_adustus_bweha","size": 300 },
+                   {"name": "Canis_adustus_grayi","size": 300 },
+                   {"name": "Canis_adustus_kaffensis","size": 300 },
+                   {"name": "Canis_adustus_notatus","size": 300 },
+                   {"name": "Canis_adustus_lateralis","size": 300 },
+                   {"name": "Canis_adustus_adustus","size": 300 } ]
+ } ]
+ },
+             {"name": "Canini","size": 300 },
+             {"name": "Xenocyon", "children": [
+                {"name": "Xenocyon_texanus","size": 300 },
+                {"name": "Xenocyon_lycaonoides","size": 300 } ]
+ },
+             {"name": "Nurocyon","size": 300 },
+             {"name": "Cuon", "children": [
+                {"name": "Cuon_alpinus", "children": [
+                   {"name": "Cuon_alpinus_sumatrensis","size": 300 },
+                   {"name": "Cuon_alpinus_hesperius","size": 300 },
+                   {"name": "Cuon_alpinus_alpinus","size": 300 } ]
+ } ]
+ },
+             {"name": "Lupulella", "children": [
+                {"name": "Lupulella_mohibi","size": 300 },
+                {"name": "Lupulella_paralius","size": 300 } ]
+ } ]
+ },
+          {"name": "Hesperocyoninae","size": 300 } ]
+ } ]
+ }
